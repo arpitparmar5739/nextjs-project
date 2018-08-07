@@ -29,7 +29,7 @@ class MyNavbar extends React.Component {
                     <Nav className="ml-auto" navbar>
                         <NavItem>
                             <Link href="/about" passHref>
-                                <NavLink>About Us</NavLink>
+                                <NavLink>About Me</NavLink>
                             </Link>
                         </NavItem>
                         <NavItem>

@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "next",
     "start": "next"
   },
   "keywords": [],
@@ -16,6 +17,8 @@
     "react-dom": "^16.4.2",
     "react-redux": "^5.0.7",
     "reactstrap": "^6.3.1",
-    "redux": "^4.0.0"
+    "redux": "^4.0.0",
+    "redux-form": "^7.4.2",
+    "validator": "^10.5.0"
   }
 }
